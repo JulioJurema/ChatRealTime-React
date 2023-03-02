@@ -47,5 +47,6 @@
   "bugs": {
     "url": "https://github.com/JulioJurema/ChatRealTime-React/issues"
   },
-  "homepage": "https://github.com/JulioJurema/ChatRealTime-React#readme"
+  "homepage": "https://github.com/JulioJurema/ChatRealTime-React#readme",
+  "devDependencies": {}
 }
