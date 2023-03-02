@@ -42,7 +42,7 @@
     "type": "git",
     "url": "git+https://github.com/JulioJurema/ChatRealTime-React.git"
   },
-  "author": "Julio Jurema, Yan Telles",
+  "author": "Yan Telles, Julio Jurema",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JulioJurema/ChatRealTime-React/issues"
